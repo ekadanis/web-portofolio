@@ -46,7 +46,6 @@ header {
     font-size: 33px;
     color: var(--text-color);
     font-weight: 700;
-    padding: 0 17px;
 }
 
 span {
@@ -131,7 +130,6 @@ section {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    padding:0 17px;
 }
 
 .home-text h5 {
